@@ -1,6 +1,9 @@
 # Team Please Compile WEC 2024 Documentation - cogIN
 
-![cogIN Logo](https://i.ibb.co/7g2jnQG/Dark-Green-Diamond-Edge-Tech-Computer-Logo.png)
+<p align="center">
+  <img src="https://i.ibb.co/7g2jnQG/Dark-Green-Diamond-Edge-Tech-Computer-Logo.png" />
+</p>
+
 
 ## 1. Pre-requisites, Motive, and Description
 
