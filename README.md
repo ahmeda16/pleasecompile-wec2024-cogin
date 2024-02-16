@@ -57,15 +57,15 @@ ssh TBD
 
 ## 3. References
 
-[1] [Bootstrap (5.3.2)](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-[2] [Node.js (21.6.2)](https://nodejs.org/docs/latest/api/)
-[3] [Express.js (4.18.2)](https://expressjs.com/en/4x/api.html)
-[4] [Postgres Client (8.11.3)](https://node-postgres.com/)
-[5] [DotEnv (16.4.1)](https://www.dotenv.org/docs/)
-[6] [Amazon Relational Database](https://docs.aws.amazon.com/rds/)
+ - [1] [Bootstrap (5.3.2)](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+ - [2] [Node.js (21.6.2)](https://nodejs.org/docs/latest/api/)
+ - [3] [Express.js (4.18.2)](https://expressjs.com/en/4x/api.html)
+ - [4] [Postgres Client (8.11.3)](https://node-postgres.com/)
+ - [5] [DotEnv (16.4.1)](https://www.dotenv.org/docs/)
+ - [6] [Amazon Relational Database](https://docs.aws.amazon.com/rds/)
 
 Developed by:
- [Syed Abraham Ahmed](https://www.linkedin.com/in/syed-abraham-ahmed/) 
- [Daigh Burgess](https://www.linkedin.com/in/daigh-burgess/)
- [Garizaldy Gerra](https://www.linkedin.com/in/garizaldygerra/)
- [Connor Pagtakhan](https://www.linkedin.com/in/connor-pagtakhan-5a617b206/)
+- [Syed Abraham Ahmed](https://www.linkedin.com/in/syed-abraham-ahmed/) 
+- [Daigh Burgess](https://www.linkedin.com/in/daigh-burgess/)
+- [Garizaldy Gerra](https://www.linkedin.com/in/garizaldygerra/)
+- [Connor Pagtakhan](https://www.linkedin.com/in/connor-pagtakhan-5a617b206/)
