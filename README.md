@@ -25,6 +25,7 @@ cogINs' app is to focus on maintaining our users independance by providing a sch
 
 ## 2. Stack & Installation
 
+### 2.1 Stack
 ```mermaid
 flowchart TD
 subgraph Frontend
@@ -42,19 +43,19 @@ D <--> E[(Database)]
 end
 ```
 
-### 2.1 Frontend
+#### 2.1.1 Frontend
 
 mermaid TBD
 
-### 2.2 Backend 
+#### 2.1.2 Backend 
 
 mermaid TBD
 
-### 2.3 Database
+#### 2.1.3 Database
 
 mermaid TBD
 
-### 2.4 Installation
+### 2.2 Installation
 
 ssh TBD
 
