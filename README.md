@@ -72,4 +72,4 @@ Developed by:
 - [Syed Abraham Ahmed](https://www.linkedin.com/in/syed-abraham-ahmed/) 
 - [Daigh Burgess](https://www.linkedin.com/in/daigh-burgess/)
 - [Garizaldy Gerra](https://www.linkedin.com/in/garizaldygerra/)
-- [Connor Pagtakhan](https://www.linkedin.com/in/connor-pagtakhan-5a617b206/)
+- [Connor Pagtakhan](https://www.linkedin.com/in/connor-pagtakhan-5a617b206/) 
